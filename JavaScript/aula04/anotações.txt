@@ -1,0 +1,109 @@
+JavaScript
+
+Modulo A
+JavaScript surgiu priimeiramente p/ cliente, mas usa tanto no
+cliente como no servidor.
+
+html + css + js funcionaem em conjunto.
+
+Java - DIFERENTE - JavaScript
+
+arpanet vira a internet
+em genebra tim bernt lee criou (conteudo mais interatico) linguagem html e protocolo http e (www Word Wide Web em 1993) que usamos ate hooje
+
+nasce o primeiro navegador - Mosaik - mark hanssen
+
+jim clark juntou com Mark e crio o nestcap (1994) -Mozilla
+
+ex funcionario de Jim (bredan) deu mais funcionalidades ao html (moca) e estava saido a
+linguagem chada JAVA (1995) FEZ SUCESSO , linguagem do fututo
+segundo a midia, e mudaram o nome de moca para javascrip (marketing)- Netscape.
+
+ fez bastante sucesso, e microsoft entrou em cena, criou a propia linguagem, 
+e criou um navegador com a base do mosaik (internet explorer)/
+
+EcmanScrip = JavaScrip padronizada.
+sua evolução - surgiu 1997 versão 1.0, 1998 versão2.0, 1999 versão 3.0 tratava erros.
+2009 saiu a versão 5.0, 2015 versão 6.0, depois foi saindo
+com versão anuais ex: 2016, 2017
+
+2002 encerram as brigas netscap e microsoft e faliu prq microsoft tinha seu propio
+navegador
+
+gakera que trabalhava fez a fundação mozilla e o negador 
+recebe o nome de firefox (2002)
+
+em 2008 surgiu o google chrome e cresceu muito.
+
+2009 lancou o v8 (motor do javascript) código aberto.
+
+2010 node fi uma grande inicativa que trou o JS para fora dos
+navegadores.
+
+varias ferramentas surgiu com a evolução do JavaScript
+conj bibliotecas - jQuerv
+aplicações web - Angular(criado e mantido pelo google)banco de dados
+conj de bibliotecas - React
+eletron - interface gráficas (mscode, whats, discorde)
+
+dar para criar jos em JS (ver as ferramentas sobre isso).
+
+* Dando os primeiros passos
+
+dica de livros; 
+JavaScrip o guia definitivo David Flanagan
+JavaScript guia do programador
+guia de referencia da monzilla
+guia de acesso ecma
+
+primeiro: janela de alerta
+<script>
+        window.alert('Minha primeira mensagem!')
+ 	window.confirm('Está Gostando de JS?') , responder ok ou cancel
+        window.prompt('Qual é seu nome?') respodender apenas
+
+    </script>
+
+
+modulo B
+como guardar dados?
+
+comentarios é importante; /* mais de uma linah de código*/ 
+// uma única linha.
+
+sinal de =; significa no JS "recebe".
+existe tambem "null" ex.:a1=null (sem nada, nulo)
+variaveis (espaços delimitados para armazenar dados a memoria)
+formas de delimitar umsa string
+="javascript"
+='htmls'
+=`css`
+
+nomeação de indentificador pode começar comuma letra,$,_ na frente, não pode começar com números. Pode usar acentos e símbolos,
+não pode ter espaço, colocamos_.
+não podem ser palavras reservadas.
+vamos ultilizar o node js.
+
+dicas para criar variaveis
+-minusculas e maiusculas faz diferença.
+-Usar nomes coerentes p/ as variáveis.
+-Evite se tornar programador contador ou alfabeto,kkk.
+
+tipos de dados;
+
+typerof
+
+-Number
+	- Infinity.
+	- NaN. 
+-String
+-Boolean
+
+-null
+-undefined
+-object
+	- Array
+-function
+
+Indentificadores
+
